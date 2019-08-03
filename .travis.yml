@@ -26,6 +26,5 @@ install:
 #script: python3 test.py || python test.py
 script: 
     - coverage run test.py
-
 after_success:
-    - codecov 
+    - codecov
