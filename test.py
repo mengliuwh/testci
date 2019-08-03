@@ -2,7 +2,7 @@ import numpy as np
 
 a=np.array([1,2])
 
-def add4(data):
+def add5(data):
     print(1)
     return np.sum(data)
 
