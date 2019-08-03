@@ -3,6 +3,7 @@ import numpy as np
 a=np.array([1,2])
 
 def add4(data):
+    print(1)
     return np.sum(data)
 
 def add4(data):
