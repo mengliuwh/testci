@@ -1,5 +1,9 @@
 import numpy as np
 
+def add6(data):
+    print(1)
+    return np.sum(data)
+
 def add5(data):
     print(1)
     return np.sum(data)
